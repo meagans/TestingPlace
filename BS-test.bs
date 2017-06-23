@@ -18,7 +18,3 @@ Markup Shorthands: css off, markdown on
 
 
 Testing
-
-This is a test file.
-
-In this test, there should be 0 issues.
