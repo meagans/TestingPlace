@@ -1,0 +1,7 @@
+{
+    "src_file": "BS-test.bs",
+    "type": "bikeshed",
+    "params": {
+        "md-foo": "bar"
+    }
+}
